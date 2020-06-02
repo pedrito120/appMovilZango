@@ -1,0 +1,7 @@
+{
+  "name": "appMovilZango",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
